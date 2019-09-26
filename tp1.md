@@ -1,1 +1,1 @@
-# TP 1
+# TP 1: prise en main de git et github
