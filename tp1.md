@@ -17,10 +17,10 @@ Chaque groupe réalise les étapes suivantes, en utilisant le compte d'**un seul
 
 * se connecter au site [gitub.com](https://gitub.com) et s'identifier (sign in)
 * créer un nouveau projet, en prenant soin:
-        * de le nommer de manière explicite
-        * de créer un `README.md` 
-        * de choisir la licence GPLv3 ou BSD (au choix)
-        * de choisir une visibilité privée
+  * de le nommer de manière explicite
+  * de créer un `README.md` 
+  * de choisir la licence GPLv3 ou BSD (au choix)
+  * de choisir une visibilité privée
 * ajouter les comptes des autres membres du groupe à ce dépôt
 * chacun des autres membres valide cet ajout en se connectant à son compte depuis son poste de la salle de TP
 
