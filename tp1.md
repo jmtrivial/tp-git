@@ -5,7 +5,7 @@ L'objectif de ces séances de travaux pratiques est d'apprendre à manipuler git
 Tout au long de ce TP, vous pourrez utiliser la [documentation en ligne de github](https://help.github.com/en#dotcom) pour trouver les commandes et informations nécessaires à la réalisation de cet exercice.
 
 
-**Prérequis:** chaque étudiant s'est créé un compte sur [gitub.com](https://gitub.com)
+**Prérequis:** chaque étudiant s'est créé un compte sur [github.com](https://github.com)
 
 ## Création des groupes
 
