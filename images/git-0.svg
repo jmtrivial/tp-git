@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="917.82147mm"
+   height="281.71722mm"
+   viewBox="0 0 917.82147 281.71722"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="git-0.svg"
+   inkscape:export-filename="/home/jm/enseignement/tp-git-gestion-de-projets/tp-git/images/git-0.png"
+   inkscape:export-xdpi="22.139381"
+   inkscape:export-ydpi="22.139381">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.31256316"
+     inkscape:cx="978.48418"
+     inkscape:cy="148.38553"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     fit-margin-top="30"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="60"
+     inkscape:window-width="1920"
+     inkscape:window-height="1055"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(184.79494,305.22621)">
+    <g
+       id="g1027">
+      <g
+         style="stroke-width:3.40100002;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="translate(-125.93708,-269.46609)"
+         id="g822">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.40100002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 0.37797621,16.919643 c 0,0 7.49721419,18.89881 38.93154579,18.89881 29.922427,0 38.931545,-18.89881 38.931545,-18.89881 v 95.627967 c 0,0 -7.119237,18.89881 -38.931545,18.89881 -31.0563554,0 -38.93154579,-18.89881 -38.93154579,-18.89881 z"
+           id="rect815"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csccscc" />
+        <ellipse
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.40100002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path818"
+           cy="16.636162"
+           cx="39.215031"
+           rx="38.838638"
+           ry="20.695782" />
+      </g>
+      <text
+         id="text984"
+         y="-89.071213"
+         x="-176.27037"
+         style="font-style:normal;font-weight:normal;font-size:26.74049377px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66851234"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.66851234"
+           y="-89.071213"
+           x="-176.27037"
+           id="tspan982"
+           sodipodi:role="line">dépôt distant</tspan></text>
+    </g>
+  </g>
+</svg>
