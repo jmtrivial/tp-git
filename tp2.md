@@ -2,6 +2,10 @@
 
 Dans ce TP comme dans le précédent, les étudiant·e·s sont invité·e·s à utiliser la documentation pour découvrir les commandes à utiliser, afin d'être autonomes.
 
+!!! Note "Documentation"
+Tout au long de ce TP, vous pourrez utiliser la [documentation en ligne de github](https://help.github.com/en#dotcom) pour trouver les commandes et informations nécessaires à la réalisation de cet exercice.
+
+
 ## Rappel du TP précédent
 
 À l'occasion du TP 1, vous avez pu utiliser les commandes suivantes:
@@ -30,5 +34,35 @@ Dans ce TP comme dans le précédent, les étudiant·e·s sont invité·e·s à 
 ![git pull](images/git-pull.png)
 
 
+## Récupération du dépôt en local
+
+Nous avons changé de salle et de machines, il est possible que vous ayez à récupérer le dépôt sur votre poste local. Utilisez **git 
+clone**.
+
+## Création d'une branche
+
+Chaque étudiant créé une branche de travail sur son dépôt local (`git branch`) nommé suivant un des cours de son master. Chaque groupe s'arrange pour que les étudiants du groupe n'aient pas de cours en double.
+
+## Description du cours
+
+Chaque étudiant créé un fichier markdown décrivant le cours qu'il a choisi, puis l'ajoute à la branche du dépôt local avec `git add`. Chaque étudiant édite le fichier README.md pour y ajouter une courte description de ce cours récemment ajouté. Ces modifications sont ajoutées au dépôt local par un `git commit`.
+
+## Mise en commun sur le serveur
+
+Chaque étudiant soumet sur le dépôt distant sa branche, en une nouvelle branche distante. Vérifiez que vos branches existent bien sur le dépôt serveur de github.
+
+## Fusion de branche
+
+Une fois que toutes les branches sont partagées sur le serveur, chacun peut récupérer les branches des autres contributeurs avec une commande `git pull` bien choisie.
+
+La commande `git checkout` permet de se promener parmi chacune des branches disponibles. N'hésitez pas à améliorer les contributions de vos camarades sur leurs branches.
+
+Chacun réalise alors la fusion de sa branche sur la branche principale (`git merge`), puis soumet cette nouvelle branche principale sur le dépôt distant (`git push`).
+
+*Il est probable que vous deviez gérer des conflits de fusion. Dans ce cas, pensez à travailler ensemble !*
+
+## Récupération du projet complet
+
+Une fois que toutes les fusions sont réalisées, chaque étudiant peut récupérer en local la version complète du projet (`git pull`).
 
 
