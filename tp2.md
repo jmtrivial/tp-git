@@ -2,8 +2,7 @@
 
 Dans ce TP comme dans le précédent, les étudiant·e·s sont invité·e·s à utiliser la documentation pour découvrir les commandes à utiliser, afin d'être autonomes.
 
-!!! Note "Documentation"
-Tout au long de ce TP, vous pourrez utiliser la [documentation en ligne de github](https://help.github.com/en#dotcom) pour trouver les commandes et informations nécessaires à la réalisation de cet exercice.
+⚠️ Tout au long de ce TP, vous pourrez utiliser la [documentation en ligne de github](https://help.github.com/en#dotcom) pour trouver les commandes et informations nécessaires à la réalisation de cet exercice.
 
 
 ## Rappel du TP précédent
