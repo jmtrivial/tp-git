@@ -44,7 +44,7 @@ Chaque étudiant créé une branche de travail sur son dépôt local (`git branc
 
 ## Description du cours
 
-Chaque étudiant créé un fichier markdown décrivant le cours qu'il a choisi, puis l'ajoute à la branche du dépôt local avec `git add`. Chaque étudiant édite le fichier README.md pour y ajouter une courte description de ce cours récemment ajouté. Ces modifications sont ajoutées au dépôt local par un `git commit`.
+Chaque étudiant créé un fichier markdown décrivant le cours qu'il a choisi, puis l'ajoute à la branche du dépôt local avec `git add`. Chaque étudiant édite le fichier README.md pour y ajouter une courte description de ce cours récemment ajouté. Ces modifications sont ajoutées au dépôt local par un `git commit`. **N'oubliez pas d'indiquer au moment du *commit* un message de description explicite de la contribution**.
 
 ## Mise en commun sur le serveur
 
@@ -63,5 +63,22 @@ Chacun réalise alors la fusion de sa branche sur la branche principale (`git me
 ## Récupération du projet complet
 
 Une fois que toutes les fusions sont réalisées, chaque étudiant peut récupérer en local la version complète du projet (`git pull`).
+
+## Déplacement du cours dans un dossier dédié
+
+Chaque étudiant déplace avec git son fichier markdown dans un dossier `cours` afin de structurer le dépôt (`git mv`).
+
+## Améliorer le contenu des notes
+
+On peut poursuivre:
+
+* en créant un lien hypertexte dans le fichier README.md pour chacun des cours
+* en améliorant le contenu des notes de cours
+* en intégrant des illustration au sein des notes
+* améliorer la structure hiérarchique des dossiers, par exemple en séparant les cours par sous-dossiers correspondant aux différents master (et partie commune).
+
+A chaque fois, n'oubliez pas de partager ces améliorations sur le dépôt du serveur.
+
+
 
 
