@@ -5,34 +5,6 @@ Dans ce TP comme dans le précédent, les étudiant·e·s sont invité·e·s à 
 ⚠️ Tout au long de ce TP, vous pourrez utiliser la [documentation en ligne de github](https://help.github.com/en#dotcom) pour trouver les commandes et informations nécessaires à la réalisation de cet exercice.
 
 
-## Rappel du TP précédent
-
-À l'occasion du TP 1, vous avez pu utiliser les commandes suivantes:
-
-![configuration initale](images/git-0.png)
-
-* `git clone [adresse github]`
-
-![git clone](images/git-clone.png)
-
-* `git add [fichier.md]`
-
-![git add](images/git-add.png)
-
-
-* `git commit [fichier.md]` ou `git commit -a`
-
-![git commit](images/git-commit.png)
-
-* `git push`
-
-![git push](images/git-push.png)
-
-* `git pull`
-
-![git pull](images/git-pull.png)
-
-
 ## Récupération du dépôt en local
 
 Nous avons changé de salle et de machines, il est possible que vous ayez à récupérer le dépôt sur votre poste local. Utilisez **git 
