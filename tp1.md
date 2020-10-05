@@ -16,7 +16,7 @@ Ce TP se réalise en groupes de 3 à 4 étudiants. On souhaite que les groupes n
 Chaque groupe réalise les étapes suivantes, en utilisant le compte d'**un seul membre du groupe**.
 
 * se connecter au site [github.com](https://github.com) et s'identifier (sign in)
-* créer un nouveau projet, en prenant soin:
+* créer un nouveau dépôt, en prenant soin:
   * de le nommer de manière explicite
   * de créer un `README.md` 
   * de choisir la licence GPLv3 ou BSD (au choix)
