@@ -12,7 +12,9 @@ clone**.
 
 ## Création d'une branche
 
-Chaque étudiant créé une branche de travail sur son dépôt local (`git branch`) nommé suivant un des cours de son master. Chaque groupe s'arrange pour que les étudiants du groupe n'aient pas de cours en double.
+Chaque étudiant créé une branche de travail sur son dépôt local (`git branch`) nommé suivant un des cours de son master. Chaque groupe s'arrange pour que les étudiants du groupe n'aient pas de cours en double. 
+
+On peut utiliser `git checkout` avec le nom d'une branche pour changer la copie de travail de branche, et ainsi travailler sur l'une ou l'autre des branches disponibles dans le dépôt local.
 
 ## Description du cours
 
