@@ -4,12 +4,15 @@ L'objectif de ces séances de travaux pratiques est d'apprendre à manipuler git
 
 Tout au long de ce TP, vous pourrez utiliser la [documentation en ligne de github](https://help.github.com/en#dotcom) pour trouver les commandes et informations nécessaires à la réalisation de cet exercice.
 
+Vous pouvez aussi trouver [un aide-mémoire pour les commandes les plus courantes](https://training.github.com/).
 
 **Prérequis:** chaque étudiant s'est créé un compte sur [github.com](https://github.com)
+
 
 ## Création des groupes
 
 Ce TP se réalise en groupes de 3 à 4 étudiants. On souhaite que les groupes ne soient pas constitués d'étudiants issus uniquement du même parcours.
+
 
 ## Création d'un dépôt 
 
@@ -24,9 +27,23 @@ Chaque groupe réalise les étapes suivantes, en utilisant le compte d'**un seul
 * ajouter les comptes des autres membres du groupe à ce dépôt
 * chacun des autres membres valide cet ajout en se connectant à son compte depuis son poste de la salle de TP
 
+
 ## Configuration du git local
 
-Chaque utilisateur ouvre un terminal, puis utilise les commandes proposées par la documentation de github pour configurer son nom et son adresse électronique sur son poste.
+Chaque utilisateur ouvre un terminal, puis utilise les commandes proposées par la documentation de github pour configurer son nom et son adresse électronique sur son poste (voir la partie **Configuration des outils** de l'[aide-mémoire](https://training.github.com/downloads/fr/github-git-cheat-sheet/#configuration-des-outils))
+
+
+## Ajout d'une clé d'authentification asymétrique
+
+On utilise le protocole `ssh` pour communiquer de façon sécurisée avec le site de github. La [documentation en ligne](https://help.github.com/en/articles/connecting-to-github-with-ssh) est très détaillée sur la question. 
+
+### Génération d'une clé
+
+`ssh` permet notamment que l'authentification se fasse grâce à deux clefs, la version locale privée, la version du serveur publique. 
+
+Suivez la documentation de github pour générer ces deux clés, puis ajoutez la clé publique à votre compte personnel github.
+
+**Note:** vous pouvez choisir de garder votre paire de clé (privée/publique) sur un support personnel (par exemple une clé usb) pour un usage futur, ou créer une paire de clé par poste utilisé (ordinateur personnel par exemple). Sous GNU/Linux, cette paire de clé est stockée dans le répertoire `.ssh` de votre répertoire personnel.
 
 ## Création d'une copie locale
 
@@ -44,17 +61,6 @@ Chaque membre du groupe:
 
 Pendant ou après chaque modification apportée au dépôt, vous pourriez avoir besoin de mettre à jour votre copie locale depuis le dépôt distant (`git pull`).
 
-## Ajout d'une clé d'authentification asymétrique
-
-On utilise le protocole `ssh` pour communiquer de façon sécurisée avec le site de github. La [document en ligne](https://help.github.com/en/articles/connecting-to-github-with-ssh) est très détaillée sur la question. 
-
-### Génération d'une clé
-
-`ssh` permet notamment que l'authentification se fasse grâce à deux clefs, la version locale privée, la version du serveur publique. 
-
-Suivez la documentation de github pour générer ces deux clés, puis ajoutez la clé publique à votre compte personnel github.
-
-**Note:** vous pouvez choisir de garder votre paire de clé (privée/publique) sur un support personnel (par exemple une clé usb) pour un usage futur, ou créer une paire de clé par poste utilisé (ordinateur personnel par exemple). Sous GNU/Linux, cette paire de clé est stockée dans le répertoire `.ssh` de votre répertoire personnel.
 
 ## Création des supports de cours 
 
