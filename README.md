@@ -18,7 +18,7 @@ Ce répertoire contient des exemples et informations quant aux travaux pratiques
 ![git add](images/git-add.png)
 
 
-* `git commit [fichier.md]` ou `git commit -a`
+* `git commit [fichier.md] -m "ajout d un fichier"` ou `git commit -a -m "ajout d un fichier"`
 
 ![git commit](images/git-commit.png)
 
